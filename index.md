@@ -1,8 +1,7 @@
-# Martin Gelter
-## Bio
+# Bio
 An expert in comparative corporate law and governance, Professor Martin Gelter joined Fordham Law School in 2009. Previously, he was an Assistant Professor in the Department of Civil Law and Business Law at the WU Vienna University of Economics. He also has been a Terence M. Considine Fellow in Law and Economics and a John M. Olin Fellow in Law and Economics at Harvard Law School, and a Visiting Fellow at the University of Bologna. His scholarship has been published in distinguished journals including Harvard International Law Journal, NYU Journal of Law and Business, and Fordham International Law Journal.
 
-## Scholarship and information
+# Further information
 - [Fordham Law School Faculty website](https://www.fordham.edu/info/23135/martin_gelter)
 - [Curriculum Vitae](https://www.fordham.edu/downloads/file/10299/martin_gelter)
 - [European Corporae Govornance Institute](https://ecgi.global/users/martin-gelter)
@@ -14,7 +13,5 @@ An expert in comparative corporate law and governance, Professor Martin Gelter j
 - [Amazon author page](http://www.amazon.com/Martin-Gelter/e/B07J4B25QD)
 
 
-- [List of English-language publications](English_publications.md)
-
-## Contact information
+## Contact
 Martin Gelter <br> Fordham University School of Law<br>150 West 62nd Street, Room 8-125<br>New York, NY 10023<br>USA<br>Telephone: (+1) 646-312-8752<br>Email: mgelter@law.fordham.edu
