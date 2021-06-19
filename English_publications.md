@@ -5,7 +5,7 @@
 2.	GLOBAL SECURITIES LITIGATION AND ENFORCEMENT (edited with Pierre-Henri Conac; Cambridge University Press, Cambridge 2019).
 
 ## Journal articles and book chapters
-1.	Letting Companies Choose between Board Models: An Empirical Analysis of Country Variations [with Mathias M. Siems], forthcoming U. PA. J. INT’L L. (2021), working paper available at https://ssrn.com/abstract=3801196.
+1.	Letting Companies Choose between Board Models: An Empirical Analysis of Country Variations [with Mathias M. Siems], forthcoming U. PA. J. INT’L L. (2021), working paper available at (https://ssrn.com/abstract=3801196).
 2.	COVID-19 and Comparative Corporate Governance [with Julia M. Puaschunder], forthcoming J. CORP. L. (2021), working paper available at https://ssrn.com/abstract=3772965.
 3.	Introduction [with Afra Afsharipour], forthcoming in RESEARCH HANDBOOK ON COMPARATIVE CORPORATE GOVERNANCE (Afra Afsharipour & Martin Gelter eds. 2021), working paper available at https://ssrn.com/abstract=3613684. 
 4.	Accounting and Convergence in Corporate Governance: Doctrinal or Economic Path Dependence? forthcoming in RESEARCH HANDBOOK ON COMPARATIVE CORPORATE GOVERNANCE (Afra Afsharipour & Martin Gelter eds. 2020/21), working paper available at https://ssrn.com/abstract=3613684.
@@ -41,20 +41,20 @@
 34.	Corporate Governance, Corporate and Employment Law, and the Costs of Expropriation [with Giulio Ecchia & Piero Pasotti], 8 REV. L. & ECON. 457-486 (2012), working paper version available at http://ssrn.com/abstract=1430623.
 35.	Why do Shareholder Derivative Suits Remain Rare in Continental Europe? 37 BROOK. J. INT’L L. 843-892 (2012).
 36.	Networks, Dialogue or One-Way Traffic? An Empirical Analysis of Cross-Citations between Ten European Supreme Courts [with Mathias M. Siems], 8 UTRECHT L. REV. 88-99 (2012). 
-a.	Republished as Networks, Dialogue or One-Way Traffic? An Empirical Analysis of Cross-Citations Between Ten of Europe’s Highest Courts, in COURTS AND COMPARATIVE LAW 200-212 (Mads Andenas & Duncan Fairgraive eds. 2015).
+- Republished as Networks, Dialogue or One-Way Traffic? An Empirical Analysis of Cross-Citations Between Ten of Europe’s Highest Courts, in COURTS AND COMPARATIVE LAW 200-212 (Mads Andenas & Duncan Fairgraive eds. 2015).
 37.	Taming or Protecting the Modern Corporation? Shareholder-Stakeholder Debates in a Comparative Light, 7 NYU J. L. & BUS. 641-730 (2011), working paper version available at http://ssrn.com/abstract=1669444.
 38.	Tilting the Balance between Capital and Labor? The Effects of Regulatory Arbitrage in European Corporate Law on Employees, 33 FORDHAM INT'L L. J. 792-857 (2010).
 39.	The Dark Side of Shareholder Influence: Managerial Autonomy and Stakeholder Orientation in Comparative Corporate Governance, 50 HARV. INT’L L. J. 129-194 (2009). 
 40.	The Transatlantic Divergence in Legal Thought: American Law and Economics vs. German Doctrinalism, 31 HASTINGS INT’L & COMP. L. REV. 295-360 (2008) [with Kristoffel R. Grechenig].
-a.	Translated into Russian as Трансатлантические различия в правовой мысли: американский экономический анализ права против немецкого доктринализма (Transatlanticheskie razlichiya v pravovoy mysli: amerikanskiy ekonomicheskiy analiz prava protiv nemetskogo doktrinalizma), 10 VESTNIK GRAZHDANSKOGO PRAVA 207-276 (2010) [translated by E.S.Chilikov and I.S.Chuprunov].
-b.	Translated into Brazilian Portuguese as A Divergência Transatlântica no pensamento jurídico: o direito e economia norte-americano vs o doutrinalismo alemão, in DIREITO E ECONOMIA. TEXTOS ESCOLHIDOS 325-394 (Bruno Mayerhof Salama ed. 2010) [translated by Gustavo Sampaio de Abreu Ribeiro].
-c.	Translated into Iranian as تفاوت تفکرحقوقی در دو سوی آتلانتیک (ISBN: 978-600-475-055-4, translator Mashaallah Niasari, 2019).
-d.	See below (German article no. 9) for the shorter German version and its Chinese translation. 
+- 	Translated into Russian as Трансатлантические различия в правовой мысли: американский экономический анализ права против немецкого доктринализма (Transatlanticheskie razlichiya v pravovoy mysli: amerikanskiy ekonomicheskiy analiz prava protiv nemetskogo doktrinalizma), 10 VESTNIK GRAZHDANSKOGO PRAVA 207-276 (2010) [translated by E.S.Chilikov and I.S.Chuprunov].
+- 	Translated into Brazilian Portuguese as A Divergência Transatlântica no pensamento jurídico: o direito e economia norte-americano vs o doutrinalismo alemão, in DIREITO E ECONOMIA. TEXTOS ESCOLHIDOS 325-394 (Bruno Mayerhof Salama ed. 2010) [translated by Gustavo Sampaio de Abreu Ribeiro].
+- 	Translated into Iranian as تفاوت تفکرحقوقی در دو سوی آتلانتیک (ISBN: 978-600-475-055-4, translator Mashaallah Niasari, 2019).
+- 	See below (German article no. 9) for the shorter German version and its Chinese translation. 
 41.	Legal Liability of Directors and Company Officials Part 2: Court Procedures, Indemnification and Insurance and Administrative and Criminal Liability (Report to the Russian Securities Agency), 2008 COLUM. BUS. L. REV. 1-171 [with Bernard Black, Brian Cheffins, Hwa-Jin Kim, Richard Nolan, Mathias Siems & Linia Prava].
 42.	Legal Liability of Directors and Company Officials Part 1: Substantive Grounds for Liability (Report to the Russian Securities Agency), 2007 COLUM. BUS. L. REV. 614-799 [with Bernard Black, Brian Cheffins, Hwa-Jin Kim, Richard Nolan, Mathias Siems & Linia Prava].
 43.	Constraining Dominant Shareholders' Self-Dealing: The Legal Framework in France, Germany and Italy, 4 EUR. COMPANY & FIN. L. REV. 491-528 (2007) [with Pierre-Henri Conac & Luca Enriques]. 
 44.	Subordination of Shareholder Loans from a Legal and Economic Perspective, CESIFO DICE REPORT – JOURNAL FOR INSTITUTIONAL COMPARISONS 2007/2, 40-47 [with Jürg Roth].
-a.	Translated into Russian as Субординация займов участников с юридической и экономической точки зрения, Вестник экономического правосудия Российской Федерации, 2019/3, 31-48.
+- Translated into Russian as Субординация займов участников с юридической и экономической точки зрения, Вестник экономического правосудия Российской Федерации, 2019/3, 31-48.
 45.	How the Old World Encountered the New One: Regulatory Competition and Cooperation in European Corporate and Bankruptcy Law, 81 TULANE L. REV. 577-646 (2007) [with Luca Enriques]; reprinted in 49 CORPORATE PRACTICE COMMENTATOR 653-722 (2007), working paper version available at http://ssrn.com/abstract=887164.
 46.	The Subordination of Shareholder Loans in Bankruptcy, 26 INT’L REV. L. & ECON. 478-502 (2006); working paper version available at http://ssrn.com/abstract=654222.
 47.	Regulatory Competition in European Company Law and Creditor Protection, 7 EUR. BUS. ORG. L. REV. 417-453 (2006) [with Luca Enriques]; reprinted in THE LAW AND ECONOMICS OF CREDITOR PROTECTION: A TRANSATLANTIC PERSPECTIVE 421-457 (Horst Eidenmüller & Wolfgang Schön eds. 2008).
