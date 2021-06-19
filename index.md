@@ -14,4 +14,4 @@ An expert in comparative corporate law and governance, Professor Martin Gelter j
 
 
 ## Contact
-Martin Gelter <br> Fordham University School of Law<br>150 West 62nd Street, Room 8-125<br>New York, NY 10023<br>USA<br>Telephone: (+1) 646-312-8752<br>Email: mgelter@law.fordham.edu
+Martin Gelter <br> Fordham University School of Law<br>150 West 62nd Street, Room 8-125<br>New York, NY 10023<br>USA<br>Telephone: (+1) 646-312-8752<br>Email: [mgelter@law.fordham.edu](mgelter@law.fordham.edu)
