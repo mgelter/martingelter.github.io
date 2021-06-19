@@ -1,12 +1,12 @@
 # Publications in English language
 
 ## Edited volumes
-1.	RESEARCH HANDBOOK ON COMPARATIVE CORPORATE GOVERNANCE (edited with Afra Afsharipour; Edward Elgar, forthcoming 2021).
-2.	GLOBAL SECURITIES LITIGATION AND ENFORCEMENT (edited with Pierre-Henri Conac; Cambridge University Press, Cambridge 2019).
+1.	[Comparative Corporate Governance (Research Handbooks in Comparative Law series)](https://www.amazon.com/Comparative-Corporate-Governance-Research-Handbooks/dp/1788975324) (edited with [Afra Afsharipour](https://law.ucdavis.edu/faculty/afsharipour/); [Edward Elgar](https://www.e-elgar.com/shop/usd/comparative-corporate-governance-9781788975322.html), forthcoming 2021).
+2.	[Global Securities Litigation and Enforcement](https://www.amazon.com/Global-Securities-Litigation-Enforcement-Pierre-Henri/dp/1107108608) (edited with [Pierre-Henri Conac](https://wwwen.uni.lu/fdef/department_of_law/people/pierre_henri_conac); [Cambridge University Press](https://doi.org/10.1017/9781316258118), Cambridge 2019).
 
 ## Journal articles and book chapters
-1.	Letting Companies Choose between Board Models: An Empirical Analysis of Country Variations [with Mathias M. Siems], forthcoming U. PA. J. INT’L L. (2021), working paper available at (https://ssrn.com/abstract=3801196).
-2.	COVID-19 and Comparative Corporate Governance [with Julia M. Puaschunder], forthcoming J. CORP. L. (2021), working paper available at https://ssrn.com/abstract=3772965.
+1.	Letting Companies Choose between Board Models: An Empirical Analysis of Country Variations [with [Mathias M. Siems](https://www.eui.eu/people?id=mathias-siems)], forthcoming U. PA. J. INT’L L. (2021) [[SSRN](https://ssrn.com/abstract=3801196)].
+2.	COVID-19 and Comparative Corporate Governance [with [Julia M. Puaschunder](https://juliampuaschunder.com/)], forthcoming J. CORP. L. (2021) [[SSRN](https://ssrn.com/abstract=3772965)].
 3.	Introduction [with Afra Afsharipour], forthcoming in RESEARCH HANDBOOK ON COMPARATIVE CORPORATE GOVERNANCE (Afra Afsharipour & Martin Gelter eds. 2021), working paper available at https://ssrn.com/abstract=3613684. 
 4.	Accounting and Convergence in Corporate Governance: Doctrinal or Economic Path Dependence? forthcoming in RESEARCH HANDBOOK ON COMPARATIVE CORPORATE GOVERNANCE (Afra Afsharipour & Martin Gelter eds. 2020/21), working paper available at https://ssrn.com/abstract=3613684.
 5.	Global Investor Protection: Securities Law Enforcement Around the World (Moderator Panel 1), 25 FORDHAM J. CORP. & FIN. L. 303, 310-314 (2020).
